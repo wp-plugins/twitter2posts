@@ -24,9 +24,11 @@ Twitter2Posts imports tweets from your twitter account to posts with special cat
 
 == Frequently asked questions ==
 
-= A question that someone might have =
+=Why i must have Tweets in WordPress if i have them on Twitter?=
+Because tweets disappearing from the twitter.com timeline and Tweets about yourself sometimes need to know the latest visitor information
 
-An answer to that question.
+=Whats that illustration on Header?=
+made by Owen Davey (owendavey.com)
 
 == Screenshots ==
 
