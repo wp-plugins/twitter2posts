@@ -30,7 +30,7 @@ An answer to that question.
 
 == Screenshots ==
 
-1. http://plugins.ondrejdadok.cz/twitter2posts/screen.png
+1. screenshot-1.png
 
 == Changelog ==
 
