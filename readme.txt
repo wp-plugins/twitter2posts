@@ -21,18 +21,18 @@ Twitter2Posts imports tweets from your twitter account to posts with special cat
 3. Set your local timezone in WordPress Settings/General before setup plugin
 4. Go to Plugin Settings, write your twitter username, then click to Save & Sync
 5. Plugin will create special category and imports last 20 tweets(the only limit). Every new tweet will be imported automatically.
+6. If you want to see how to setup plugin, see tutorial on YouTube: http://www.youtube.com/watch?v=vtmtAB2C3mE
 
 == Frequently asked questions ==
 
 **Why i must have Tweets in WordPress if i have them on Twitter?**
-
 Because tweets disappearing from the twitter.com timeline and Tweets about yourself sometimes need to know the latest visitor information
 
 **Whats that illustration on Header?**
-
 made by Owen Davey (owendavey.com)
 
-An answer to that question.
+**Who is the author of this plugin?**
+Ondrej Dadok - Webdeveloper (ondrejdadok.cz)
 
 == Screenshots ==
 
