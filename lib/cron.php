@@ -16,7 +16,7 @@
 
  			# load the RSS -- replace 'lylo' with your user of choice
 
- 			if($doc->load('http://twitter.com/statuses/user_timeline/'.get_option("t2p_name").'.rss')) {
+ 			if($doc->load('http://api.twitter.com/1/statuses/user_timeline.rss?screen_name='.get_option("t2p_name").'')) {
  		
  			# number of <li> elements to display.  20 is the maximum
 
