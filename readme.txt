@@ -14,8 +14,6 @@ Simple Twitter timeline synchronization with your Posts Archive
 
 Twitter2Posts imports tweets from your twitter account to posts with special category. 
 
-If you want to see how plugin working, see showcase on YouTube: http://www.youtube.com/watch?v=vtmtAB2C3mE
-
 == Installation ==
 
 1. Upload `twitter2posts` to the `/wp-content/plugins/` directory
@@ -23,31 +21,25 @@ If you want to see how plugin working, see showcase on YouTube: http://www.youtu
 3. Set your local timezone in WordPress Settings/General before setup plugin
 4. Go to Plugin Settings, write your twitter username, then click to Save & Sync
 5. Plugin will create special category and imports last 20 tweets(the only limit). Every new tweet will be imported automatically.
-6. If you want to see how to setup plugin, see tutorial on YouTube: http://www.youtube.com/watch?v=vtmtAB2C3mE
 
 == Frequently asked questions ==
 
-**Why i must have Tweets in WordPress if i have them on Twitter?**
+= A question that someone might have =
 
-Because tweets disappearing from the twitter.com timeline and Tweets about yourself sometimes need to know the latest visitor information
-
-**Whats that illustration on Header?**
-
-made by Owen Davey (owendavey.com)
-
-**Who is the author of this plugin?**
-
-Ondrej Dadok - Webdeveloper (ondrejdadok.cz)
+An answer to that question.
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. http://plugins.ondrejdadok.cz/twitter2posts/screen.png
 
 == Changelog ==
 
+Version 1.1
 
+Upgrade to new twitter timeline API 
 
 == Upgrade notice ==
+
 
 
 
