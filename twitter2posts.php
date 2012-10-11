@@ -2,7 +2,7 @@
 /*
 Plugin Name: Twitter2Posts
 Plugin URI: http://www.ondrejdadok.cz/twitter2posts/
-Description: Do you want own posts archive of tweets from your Twitter account? This is a simple plugin to have Twitter timeline in the posts directly on your web content.
+Description: Great tool to archive your tweets for better SEO & show your tweets on your web with no backward limit at posts with special category
 Version: 1.1
 Author: Ondřej Dadok
 Author URI: http://www.ondrejdadok.cz
