@@ -16,9 +16,9 @@ Great tool to archive your tweets for better SEO & show your tweets on your web 
 
  Functionality overview:
  
-- archival and display of Twitter feed history anywhere on a Worldpress website
-- tweets become part of Worldpress posts and because they are archived, they appear in search which is great for search engines and increases your site SEO
-- default WordPress templates twentyten and twentyeleven (or any other template) will show the post format as “status”
+- Archival and display of Twitter feed history anywhere on a Worldpress website
+- Tweets become part of Worldpress posts and because they are archived, they appear in search which is great for search engines and increases your site SEO
+- Default WordPress templates twentyten and twentyeleven (or any other template) will show the post format as “status”
 - Frequency of synchronization with Twitter can be adjusted as needed.
 - Tweets that are deleted in Wordpress are not imported again.
 
