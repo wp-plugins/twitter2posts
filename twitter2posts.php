@@ -3,7 +3,7 @@
 Plugin Name: Twitter2Posts
 Plugin URI: http://www.ondrejdadok.cz/twitter2posts/
 Description: Do you want own posts archive of tweets from your Twitter account? This is a simple plugin to have Twitter timeline in the posts directly on your web content.
-Version: 1.0
+Version: 1.1
 Author: Ondřej Dadok
 Author URI: http://www.ondrejdadok.cz
 License: GPL2
@@ -205,7 +205,7 @@ function t2p_settings_page() {
            </tr>
        
         <tr valign="top">
-        <th scope="row">Refresh delay<br /> <small>Delay to check your Twitter feed and import to Posts</small></th>
+        <th scope="row">Refresh delay<br /> <small>Delay to check your Twitter feed and import to Custom Post Type</small></th>
 	    <td><select name="t2p_delay">
 	        <option value="5"<?php if(get_option('t2p_delay') == 5){echo ' selected';} ?>>5 minutes</option>
 	        <option value="10"<?php if(get_option('t2p_delay') == 10){echo ' selected';} ?>>10 minutes</option>
